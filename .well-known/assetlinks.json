@@ -2,7 +2,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.example.leader_id_app_flutter",
+      "package_name": "com.auth0.flutter_leader_id_app",
       "sha256_cert_fingerprints":
       ["64:31:08:20:DF:C9:E7:26:65:6A:F3:4B:06:14:8C:18:46:E4:80:88:F2:04:F1:F2:3C:37:6F:B3:11:6C:F0:AE"]
     }
